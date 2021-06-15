@@ -337,6 +337,7 @@ section .title::after{
     flex-direction: row;
     padding: 3px;
     margin: 15px;
+    align-items: center;
     padding-top: 10px;
     justify-content: center;
     font-size: 35px;
